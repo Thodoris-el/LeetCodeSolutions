@@ -13,4 +13,7 @@ This repository contains solutions to some of leetcode problems.
 - (14) [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) -> Java
 - (17) [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) -> Python
 - (21) [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) -> Java
+- (26) [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) -> Python
+- (27) [Remove Element](https://leetcode.com/problems/remove-element/description/) -> Python
+- (28) [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) -> Python
 - (217) [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) -> Go
