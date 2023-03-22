@@ -16,4 +16,5 @@ This repository contains solutions to some of leetcode problems.
 - (26) [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) -> Python
 - (27) [Remove Element](https://leetcode.com/problems/remove-element/description/) -> Python
 - (28) [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) -> Python
+- (33) [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) -> Python
 - (217) [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) -> Go
