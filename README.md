@@ -19,4 +19,5 @@ This repository contains solutions to some of leetcode problems.
 - (33) [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) -> Python
 - (34) [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) -> Python
 - (41) [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) -> Python
+- (42) [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) -> Python
 - (217) [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) -> Go
