@@ -24,5 +24,6 @@ This repository contains solutions to some of leetcode problems.
 - (1114) [Print in Order](https://leetcode.com/problems/print-in-order/description/) -> Python
 - (1115) [Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately/) -> Python
 - (1116) [Print Zero Even Odd](https://leetcode.com/problems/print-zero-even-odd/description/) -> Python
+- (1117) [Building H2O](https://leetcode.com/problems/building-h2o/) -> Python
 
 ### Total Problems Solved = 20
