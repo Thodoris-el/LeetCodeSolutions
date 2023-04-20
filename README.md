@@ -21,6 +21,6 @@ This repository contains solutions to some of leetcode problems.
 - (41) [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) -> Python
 - (42) [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) -> Python
 - (217) [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) -> Go
-
+- (1114) [Print in Order](https://leetcode.com/problems/print-in-order/description/) -> Python
 
 ### Total Problems Solved = 16
